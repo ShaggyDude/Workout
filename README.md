@@ -1,5 +1,5 @@
 # Workout
 
-[static printable workout](https://workout.romack.net/)
+[static printable workout](http://workout.romack.net/)
 
 ## This is just a place to update my workouts
